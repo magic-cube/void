@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sudent> 
+  <stu> 
+    <id>100</id>  
+    <name>郝川</name>  
+    <age>20</age> 
+  </stu>  
+  <stu> 
+    <id>101</id>  
+    <name>阿光</name>  
+    <age>30</age> 
+  </stu>  
+  <stu> 
+    <id>102</id>  
+    <name>韩军朝</name>  
+    <age>40</age> 
+  </stu> 
+</sudent>
